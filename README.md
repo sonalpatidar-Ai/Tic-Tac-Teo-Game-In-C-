@@ -42,8 +42,8 @@ tic-tac-toe/
 
     
 📸 Example Gameplay
-
  1 | 2 | 3
+---|---|---
  4 | 5 | 6
  7 | 8 | 9
 
@@ -52,6 +52,7 @@ X
 its player1's turn Enter your slot: 5
 
  1 | 2 | 3
+---|---|---
  4 | X | 6
  7 | 8 | 9
 
