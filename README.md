@@ -43,14 +43,22 @@ tic-tac-toe/
     
 📸 Example Gameplay
 
-1	2	3
-4	5	6
-7	8	9
-Player 1 choose your marker: X or O X its player1's turn Enter your slot: 5
+ 1 | 2 | 3
+---|---|---
+ 4 | 5 | 6
+---|---|---
+ 7 | 8 | 9
 
-1	2	3
-4	X	6
-7	8	9
+Player 1 choose your marker: X or O
+X
+its player1's turn Enter your slot: 5
+
+ 1 | 2 | 3
+---|---|---
+ 4 | X | 6
+---|---|---
+ 7 | 8 | 9
+
 
 
 📌 Future Improvements
